@@ -8,8 +8,6 @@
 -- <03/14/2020>,<Dejene Hailu>, Modified ETL code
 --**************************************************************************--
 
-Set NoCount On;
-Go
 USE DWStudentEnrollments;
 Go
 
