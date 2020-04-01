@@ -1,2 +1,2 @@
 # BISolution
-Develop BI solution for High Schoo;l
+Develop BI solution for private Schoo;l
