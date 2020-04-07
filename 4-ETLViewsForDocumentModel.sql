@@ -1,7 +1,7 @@
 --*************************** Instructors Version ******************************--
 -- Title: DWStudentEnrollments Document Models Views
 -- Author: RRoot
--- Desc: Scaler user define function in the 
+-- Desc: View in the 
 --		[DWStudentEnrollments] database for Document. 
 -- Change Log: When,Who,What
 -- 2020-01-01,RRoot,Created File
